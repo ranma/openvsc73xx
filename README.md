@@ -31,3 +31,7 @@ The custom example payload currently:
 
 Tools needed to build:
 - as31 (Intel 8031/8051 assembler, I used version 2.3.1)
+
+See also:
+- OpenWRT VSC7385 driver: https://dev.openwrt.org/browser/trunk/target/linux/ar71xx/files/drivers/spi/spi-vsc7385.c
+- OpenWRT vsc73x5-ucode package.
