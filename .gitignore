@@ -1,3 +1,12 @@
+# Vim backups
+*~
+
+# AS31 listings
+*.lst
+
+# Binary objects
+*.bin
+
 # Object files
 *.o
 *.ko
